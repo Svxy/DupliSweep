@@ -1,4 +1,4 @@
-<h3 align="center"><img src='https://github.com/Svxy/imgs/blob/main/DupliSweep/DupliSweep-dark.png?raw=true' style='width: 25%; height: auto;'><br><b>DupliSweep</b><br><sup><i>by Sneaky</i></sup></h3>
+<h3 align="center"><img src='https://github.com/Svxy/imgs/blob/main/DupliSweep/DupliSweep-dark.png?raw=true' style='width: 25%; height: auto;' alt='DupliSweep Logo'><br><b>DupliSweep</b><br><sup><i>by Sneaky</i></sup></h3>
 
 <br>
 
@@ -12,9 +12,7 @@
 
 <br>
 
-<p align=center> <img src='https://img.shields.io/github/downloads/svxy/DupliSweep/v1.0.0/total?style=for-the-badge&logo=github&label=Installs&labelColor=%23cc2525&color=%23cc2525'> <img src='https://img.shields.io/github/stars/svxy/duplisweep?style=for-the-badge&logo=github&label=Stars&labelColor=%23cc2525&color=%23cc2525
-'> <img src='https://img.shields.io/github/v/release/svxy/duplisweep?style=for-the-badge&logo=github&label=Release&labelColor=%23cc2525&color=%23cc2525
-'> </p>
+<p align=center> <img src='https://img.shields.io/github/downloads/svxy/DupliSweep/v1.0.0/total?style=for-the-badge&logo=github&label=Installs&labelColor=%23cc2525&color=%23cc2525'> <img src='https://img.shields.io/github/stars/svxy/duplisweep?style=for-the-badge&logo=github&label=Stars&labelColor=%23cc2525&color=%23cc2525'> <img src='https://img.shields.io/github/v/release/svxy/duplisweep?style=for-the-badge&logo=github&label=Release&labelColor=%23cc2525&color=%23cc2525'> </p>
 
 <br>
 
@@ -22,6 +20,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Preview](#preview)
 - [Getting Started](#getting-started)
   - [Cloning the Repository](#cloning-the-repository)
   - [Contributing](#contributing)
@@ -37,11 +36,16 @@ DupliSweep is a simple and user-friendly application aimed at helping users find
 ## Features
 
 - Intuitive and user-friendly interface.
-- Flexible scanning options for customizing the search criteria.
+- Flexible/customizable search criteria like filesize and hashes.
 - Real-time progress updates during the scanning process.
 - Preview duplicate files before taking any action.
 - Remove selected duplicate files with a single click.
 - Support for various file types, including documents, images, music, and more.
+
+## Preview
+
+<img src="https://github.com/Svxy/imgs/blob/main/DupliSweep/DupliSweep-preview.gif?raw=true" width="420" height="auto" alt="Preview">
+<p><sup>A short gif demonstrating the functionality of DupliSweep.</sup></p>
 
 ## Getting Started
 
@@ -93,4 +97,4 @@ Note that additional instructions and troubleshooting for auto-py-to-exe can be 
 
 ## Copyright
 
-Copyright © 2023 Sneaky<br>This project is licensed under the [MIT License](LICENSE).
+Copyright © 2023-2024 TnyavnTo/Svxy/Sneaky<br>This project is licensed under the [MIT License](LICENSE).

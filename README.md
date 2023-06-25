@@ -12,9 +12,7 @@
 
 <br>
 
-<p align=center> <img src='https://img.shields.io/github/downloads/svxy/DupliSweep/v1.0.0/total?style=for-the-badge&logo=github&label=Installs&labelColor=%23cc2525&color=%23cc2525'> <img src='https://img.shields.io/github/stars/svxy/duplisweep?style=for-the-badge&logo=github&label=Stars&labelColor=%23cc2525&color=%23cc2525
-'> <img src='https://img.shields.io/github/v/release/svxy/duplisweep?style=for-the-badge&logo=github&label=Release&labelColor=%23cc2525&color=%23cc2525
-'> </p>
+<p align=center> <img src='https://img.shields.io/github/downloads/svxy/DupliSweep/v1.0.0/total?style=for-the-badge&logo=github&label=Installs&labelColor=%23cc2525&color=%23cc2525'> <img src='https://img.shields.io/github/stars/svxy/duplisweep?style=for-the-badge&logo=github&label=Stars&labelColor=%23cc2525&color=%23cc2525'> <img src='https://img.shields.io/github/v/release/svxy/duplisweep?style=for-the-badge&logo=github&label=Release&labelColor=%23cc2525&color=%23cc2525'> </p>
 
 <br>
 
@@ -45,7 +43,7 @@ DupliSweep is a simple and user-friendly application aimed at helping users find
 
 ## Preview
 
-<p> <video autoplay loop> <source src="C:\Users\aidan\Pictures\DupliSweep\DupliSweep-preview.mp4" type="video/mp4"> </video> </p>
+<p> <video autoplay loop> <source src="https://github.com/Svxy/imgs/raw/main/DupliSweep/DupliSweep-preview.mp4" type="video/mp4"> </video> </p>
 
 ## Getting Started
 

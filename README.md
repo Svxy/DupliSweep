@@ -8,7 +8,13 @@
 
 <br>
 
-<p align=center><em>Download the <a href=''>latest release</a>!</em></p>
+<p align=center><em>Download the <a href='https://github.com/Svxy/DupliSweep/releases/tag/v1.0.0'>latest release</a>!</em></p>
+
+<br>
+
+<p align=center> <img src='https://img.shields.io/github/downloads/svxy/DupliSweep/v1.0.0/total?style=for-the-badge&logo=github&label=Installs&labelColor=%23cc2525&color=%23cc2525'> <img src='https://img.shields.io/github/stars/svxy/duplisweep?style=for-the-badge&logo=github&label=Stars&labelColor=%23cc2525&color=%23cc2525
+'> <img src='https://img.shields.io/github/v/release/svxy/duplisweep?style=for-the-badge&logo=github&label=Release&labelColor=%23cc2525&color=%23cc2525
+'> </p>
 
 <br>
 

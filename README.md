@@ -43,6 +43,10 @@ DupliSweep is a simple and user-friendly application aimed at helping users find
 - Remove selected duplicate files with a single click.
 - Support for various file types, including documents, images, music, and more.
 
+## Preview
+
+<p> <video autoplay loop> <source src="C:\Users\aidan\Pictures\DupliSweep\DupliSweep-preview.mp4" type="video/mp4"> </video> </p>
+
 ## Getting Started
 
 ### Cloning the Repository

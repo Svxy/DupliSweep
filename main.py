@@ -191,9 +191,10 @@ class DupliSweep:
                     # auto scroll down the treeview
                     self.treeview.yview_moveto(1)
 
-        total_files = sum(len(files) for _, _, files in os.walk(folder_path))
+       	total_files = sum(len(files) for _, _, files in os.walk(folder_path))
 
-        threading.Thread(target=index_files, args=(folder_path,), daemon=True).start()
+       	t1 = threading.Thread(target=index_files, args=(folder_path,), daemon=True)
+        t1.start()
 
         self.root.wait_window(progress_popup)
 
@@ -201,6 +202,7 @@ class DupliSweep:
         if indexed_files == total_files:
             messagebox.showinfo("Indexing Complete", f"Successfully Indexed {indexed_files} files.")
         else:
+            t1.join()
             messagebox.showinfo("Indexing Cancelled", "Indexing process was cancelled.")
 
     def preview_duplicate(self):

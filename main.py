@@ -191,9 +191,9 @@ class DupliSweep:
                     # auto scroll down the treeview
                     self.treeview.yview_moveto(1)
 
-       	total_files = sum(len(files) for _, _, files in os.walk(folder_path))
+        total_files = sum(len(files) for _, _, files in os.walk(folder_path))
 
-       	t1 = threading.Thread(target=index_files, args=(folder_path,), daemon=True)
+        t1 = threading.Thread(target=index_files, args=(folder_path,), daemon=True)
         t1.start()
 
         self.root.wait_window(progress_popup)

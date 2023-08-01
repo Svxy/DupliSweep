@@ -1,4 +1,4 @@
-<h3 align="center"><img src='https://github.com/Svxy/imgs/blob/main/DupliSweep/DupliSweep-dark.png?raw=true' style='width: 25%; height: auto;' alt='DupliSweep Logo'><br><b>DupliSweep</b><br><sup><i>by Sneaky</i></sup></h3>
+<h3 align="center"><img src='assets/DupliSweep-dark.png' style='width: 25%; height: auto;' alt='DupliSweep Logo'><br><b>DupliSweep</b><br><sup><i>by Sneaky</i></sup></h3>
 
 <br>
 
@@ -44,7 +44,7 @@ DupliSweep is a simple and user-friendly application aimed at helping users find
 
 ## Preview
 
-<img src="https://github.com/Svxy/imgs/blob/main/DupliSweep/DupliSweep-preview.gif?raw=true" width="420" height="auto" alt="Preview">
+<img src="assets/DupliSweep-preview.gif" width="420" height="auto" alt="Preview">
 <p><sup>A short gif demonstrating the functionality of DupliSweep.</sup></p>
 
 ## Getting Started
